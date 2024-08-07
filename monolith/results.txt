@@ -1,0 +1,3 @@
+Extended Load Test Results - Fri, Aug 16, 2024  8:39:42 AM
+===============================
+Increasing load to 10 concurrent users (10% of base load)

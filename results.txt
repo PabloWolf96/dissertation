@@ -1,0 +1,627 @@
+Extended Load Test Results - Fri Aug 16 20:52:45 BST 2024
+===============================
+Increasing load to 10 concurrent users (10% of base load)
+Final Results for 10 concurrent users:
+Average Login Time: .3655 seconds
+Average Add to Cart Time: .0747 seconds
+Max Add to Cart Time: .260821588 seconds
+Average Checkout Time: .1319 seconds
+Average Total Execution Time: .9085 seconds
+Average Products per Cart: 5.30
+Success Rate: 100.00%
+CPU Usage: 1%
+Memory Usage: 2281 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 10 concurrent users (10% of base load)
+Final Results for 10 concurrent users:
+Average Login Time: .4140 seconds
+Average Add to Cart Time: .1033 seconds
+Max Add to Cart Time: .448534132 seconds
+Average Checkout Time: .1039 seconds
+Average Total Execution Time: 1.0120 seconds
+Average Products per Cart: 4.90
+Success Rate: 100.00%
+CPU Usage: 6%
+Memory Usage: 2281 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 10 concurrent users (10% of base load)
+Final Results for 10 concurrent users:
+Average Login Time: .4721 seconds
+Average Add to Cart Time: .0705 seconds
+Max Add to Cart Time: .542951719 seconds
+Average Checkout Time: -.0167 seconds
+Average Total Execution Time: .7464 seconds
+Average Products per Cart: 5.60
+Success Rate: 100.00%
+CPU Usage: 0.9%
+Memory Usage: 2359 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 20 concurrent users (20% of base load)
+Final Results for 20 concurrent users:
+Average Login Time: .5336 seconds
+Average Add to Cart Time: .3027 seconds
+Max Add to Cart Time: .938404734 seconds
+Average Checkout Time: .1132 seconds
+Average Total Execution Time: 1.9502 seconds
+Average Products per Cart: 5.35
+Success Rate: 100.00%
+CPU Usage: 0%
+Memory Usage: 2326 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 20 concurrent users (20% of base load)
+Final Results for 20 concurrent users:
+Average Login Time: .6606 seconds
+Average Add to Cart Time: .3734 seconds
+Max Add to Cart Time: 1.032580774 seconds
+Average Checkout Time: .1657 seconds
+Average Total Execution Time: 2.6095 seconds
+Average Products per Cart: 5.80
+Success Rate: 100.00%
+CPU Usage: 0.7%
+Memory Usage: 2301 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 20 concurrent users (20% of base load)
+Final Results for 20 concurrent users:
+Average Login Time: .4816 seconds
+Average Add to Cart Time: .1791 seconds
+Max Add to Cart Time: .692087765 seconds
+Average Checkout Time: .0660 seconds
+Average Total Execution Time: 1.5335 seconds
+Average Products per Cart: 5.90
+Success Rate: 100.00%
+CPU Usage: 0%
+Memory Usage: 2349 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 30 concurrent users (30% of base load)
+Final Results for 30 concurrent users:
+Average Login Time: .9505 seconds
+Average Add to Cart Time: .5830 seconds
+Max Add to Cart Time: 1.647230971 seconds
+Average Checkout Time: .3766 seconds
+Average Total Execution Time: 3.9706 seconds
+Average Products per Cart: 4.73
+Success Rate: 100.00%
+CPU Usage: 0%
+Memory Usage: 2329 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 30 concurrent users (30% of base load)
+Final Results for 30 concurrent users:
+Average Login Time: 1.3892 seconds
+Average Add to Cart Time: .5043 seconds
+Max Add to Cart Time: 1.990848384 seconds
+Average Checkout Time: .2687 seconds
+Average Total Execution Time: 4.1824 seconds
+Average Products per Cart: 6.00
+Success Rate: 100.00%
+CPU Usage: 0.6%
+Memory Usage: 2330 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 30 concurrent users (30% of base load)
+Final Results for 30 concurrent users:
+Average Login Time: 1.9349 seconds
+Average Add to Cart Time: .7204 seconds
+Max Add to Cart Time: 3.118444241 seconds
+Average Checkout Time: .3229 seconds
+Average Total Execution Time: 5.3130 seconds
+Average Products per Cart: 5.40
+Success Rate: 100.00%
+CPU Usage: 0%
+Memory Usage: 2287 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 40 concurrent users (40% of base load)
+Final Results for 40 concurrent users:
+Average Login Time: 1.7658 seconds
+Average Add to Cart Time: 1.4174 seconds
+Max Add to Cart Time: 5.756434072 seconds
+Average Checkout Time: .6244 seconds
+Average Total Execution Time: 9.4785 seconds
+Average Products per Cart: 5.90
+Success Rate: 100.00%
+CPU Usage: 3%
+Memory Usage: 2364 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 40 concurrent users (40% of base load)
+Final Results for 40 concurrent users:
+Average Login Time: 1.4467 seconds
+Average Add to Cart Time: .7389 seconds
+Max Add to Cart Time: 2.592849624 seconds
+Average Checkout Time: .2749 seconds
+Average Total Execution Time: 5.2970 seconds
+Average Products per Cart: 5.57
+Success Rate: 100.00%
+CPU Usage: 4.6%
+Memory Usage: 2339 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 40 concurrent users (40% of base load)
+Final Results for 40 concurrent users:
+Average Login Time: 5.2213 seconds
+Average Add to Cart Time: 2.1332 seconds
+Max Add to Cart Time: 9.015591204 seconds
+Average Checkout Time: .7429 seconds
+Average Total Execution Time: 14.3340 seconds
+Average Products per Cart: 5.32
+Success Rate: 100.00%
+CPU Usage: 1.1%
+Memory Usage: 2324 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 50 concurrent users (50% of base load)
+Final Results for 50 concurrent users:
+Average Login Time: 3.2526 seconds
+Average Add to Cart Time: 1.5381 seconds
+Max Add to Cart Time: 6.045805231 seconds
+Average Checkout Time: .7610 seconds
+Average Total Execution Time: 11.1275 seconds
+Average Products per Cart: 5.60
+Success Rate: 100.00%
+CPU Usage: 0.5%
+Memory Usage: 2313 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 50 concurrent users (50% of base load)
+Final Results for 50 concurrent users:
+Average Login Time: 3.1747 seconds
+Average Add to Cart Time: 1.1510 seconds
+Max Add to Cart Time: 5.677078822 seconds
+Average Checkout Time: .3635 seconds
+Average Total Execution Time: 8.8389 seconds
+Average Products per Cart: 5.66
+Success Rate: 100.00%
+CPU Usage: 0%
+Memory Usage: 2358 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 50 concurrent users (50% of base load)
+Final Results for 50 concurrent users:
+Average Login Time: 2.4861 seconds
+Average Add to Cart Time: 1.6712 seconds
+Max Add to Cart Time: 4.911463310 seconds
+Average Checkout Time: .9971 seconds
+Average Total Execution Time: 10.8161 seconds
+Average Products per Cart: 5.24
+Success Rate: 100.00%
+CPU Usage: 1%
+Memory Usage: 2318 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 60 concurrent users (60% of base load)
+Final Results for 60 concurrent users:
+Average Login Time: 3.5704 seconds
+Average Add to Cart Time: 1.5958 seconds
+Max Add to Cart Time: 6.947217643 seconds
+Average Checkout Time: .7363 seconds
+Average Total Execution Time: 11.9831 seconds
+Average Products per Cart: 5.70
+Success Rate: 100.00%
+CPU Usage: 1.7%
+Memory Usage: 2333 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 60 concurrent users (60% of base load)
+Final Results for 60 concurrent users:
+Average Login Time: 4.1104 seconds
+Average Add to Cart Time: 1.6983 seconds
+Max Add to Cart Time: 6.804179412 seconds
+Average Checkout Time: .5719 seconds
+Average Total Execution Time: 11.9173 seconds
+Average Products per Cart: 5.56
+Success Rate: 100.00%
+CPU Usage: 0%
+Memory Usage: 2311 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 60 concurrent users (60% of base load)
+Final Results for 60 concurrent users:
+Average Login Time: 3.1130 seconds
+Average Add to Cart Time: 1.3343 seconds
+Max Add to Cart Time: 4.813889749 seconds
+Average Checkout Time: .7663 seconds
+Average Total Execution Time: 10.2694 seconds
+Average Products per Cart: 5.65
+Success Rate: 100.00%
+CPU Usage: 2.2%
+Memory Usage: 2557 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 70 concurrent users (70% of base load)
+Final Results for 70 concurrent users:
+Average Login Time: 3.9954 seconds
+Average Add to Cart Time: 2.4724 seconds
+Max Add to Cart Time: 7.555191912 seconds
+Average Checkout Time: 1.2763 seconds
+Average Total Execution Time: 17.3450 seconds
+Average Products per Cart: 5.61
+Success Rate: 100.00%
+CPU Usage: 3%
+Memory Usage: 2512 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 70 concurrent users (70% of base load)
+Final Results for 70 concurrent users:
+Average Login Time: 3.1804 seconds
+Average Add to Cart Time: 1.7926 seconds
+Max Add to Cart Time: 5.556176820 seconds
+Average Checkout Time: .8670 seconds
+Average Total Execution Time: 12.9378 seconds
+Average Products per Cart: 5.71
+Success Rate: 100.00%
+CPU Usage: 0%
+Memory Usage: 2596 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 70 concurrent users (70% of base load)
+Final Results for 70 concurrent users:
+Average Login Time: 8.5610 seconds
+Average Add to Cart Time: 3.9758 seconds
+Max Add to Cart Time: 19.312806704 seconds
+Average Checkout Time: 1.3676 seconds
+Average Total Execution Time: 26.2312 seconds
+Average Products per Cart: 5.35
+Success Rate: 100.00%
+CPU Usage: 1.1%
+Memory Usage: 2526 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 80 concurrent users (80% of base load)
+Final Results for 80 concurrent users:
+Average Login Time: 8.4611 seconds
+Average Add to Cart Time: 4.0464 seconds
+Max Add to Cart Time: 13.264626551 seconds
+Average Checkout Time: 1.5626 seconds
+Average Total Execution Time: 24.5889 seconds
+Average Products per Cart: 5.03
+Success Rate: 100.00%
+CPU Usage: 3.4%
+Memory Usage: 2552 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 80 concurrent users (80% of base load)
+Final Results for 80 concurrent users:
+Average Login Time: 8.0422 seconds
+Average Add to Cart Time: 2.9815 seconds
+Max Add to Cart Time: 11.129654369 seconds
+Average Checkout Time: 1.1512 seconds
+Average Total Execution Time: 24.2263 seconds
+Average Products per Cart: 5.72
+Success Rate: 100.00%
+CPU Usage: 0%
+Memory Usage: 2527 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 80 concurrent users (80% of base load)
+Final Results for 80 concurrent users:
+Average Login Time: 6.7452 seconds
+Average Add to Cart Time: 3.5845 seconds
+Max Add to Cart Time: 11.397506864 seconds
+Average Checkout Time: 1.2934 seconds
+Average Total Execution Time: 21.9238 seconds
+Average Products per Cart: 5.33
+Success Rate: 100.00%
+CPU Usage: 2.4%
+Memory Usage: 2523 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 90 concurrent users (90% of base load)
+Final Results for 90 concurrent users:
+Average Login Time: 7.9636 seconds
+Average Add to Cart Time: 3.3150 seconds
+Max Add to Cart Time: 13.382132944 seconds
+Average Checkout Time: 1.9330 seconds
+Average Total Execution Time: 26.8096 seconds
+Average Products per Cart: 5.78
+Success Rate: 100.00%
+CPU Usage: 0.7%
+Memory Usage: 2501 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 90 concurrent users (90% of base load)
+Final Results for 90 concurrent users:
+Average Login Time: 8.1466 seconds
+Average Add to Cart Time: 4.3346 seconds
+Max Add to Cart Time: 17.637021391 seconds
+Average Checkout Time: 1.9074 seconds
+Average Total Execution Time: 30.5515 seconds
+Average Products per Cart: 5.84
+Success Rate: 100.00%
+CPU Usage: 1.1%
+Memory Usage: 2536 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 90 concurrent users (90% of base load)
+Final Results for 90 concurrent users:
+Average Login Time: 6.9762 seconds
+Average Add to Cart Time: 2.9139 seconds
+Max Add to Cart Time: 10.947423836 seconds
+Average Checkout Time: 1.2930 seconds
+Average Total Execution Time: 22.8116 seconds
+Average Products per Cart: 5.65
+Success Rate: 100.00%
+CPU Usage: 0.7%
+Memory Usage: 2553 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 100 concurrent users (100% of base load)
+Final Results for 100 concurrent users:
+Average Login Time: 7.4858 seconds
+Average Add to Cart Time: 4.1371 seconds
+Max Add to Cart Time: 15.694199996 seconds
+Average Checkout Time: 2.1178 seconds
+Average Total Execution Time: 29.0870 seconds
+Average Products per Cart: 5.50
+Success Rate: 100.00%
+CPU Usage: 1.1%
+Memory Usage: 2541 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 100 concurrent users (100% of base load)
+Final Results for 100 concurrent users:
+Average Login Time: 8.3292 seconds
+Average Add to Cart Time: 4.0455 seconds
+Max Add to Cart Time: 13.970962281 seconds
+Average Checkout Time: 1.8365 seconds
+Average Total Execution Time: 27.2678 seconds
+Average Products per Cart: 5.16
+Success Rate: 100.00%
+CPU Usage: 1.4%
+Memory Usage: 2536 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 100 concurrent users (100% of base load)
+Final Results for 100 concurrent users:
+Average Login Time: 8.9146 seconds
+Average Add to Cart Time: 4.9309 seconds
+Max Add to Cart Time: 15.100115946 seconds
+Average Checkout Time: 1.9773 seconds
+Average Total Execution Time: 33.6293 seconds
+Average Products per Cart: 5.52
+Success Rate: 100.00%
+CPU Usage: 0.7%
+Memory Usage: 2540 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 110 concurrent users (110% of base load)
+Final Results for 110 concurrent users:
+Average Login Time: 8.9160 seconds
+Average Add to Cart Time: 4.5417 seconds
+Max Add to Cart Time: 16.907759319 seconds
+Average Checkout Time: 2.1881 seconds
+Average Total Execution Time: 30.6770 seconds
+Average Products per Cart: 5.04
+Success Rate: 100.00%
+CPU Usage: 2.4%
+Memory Usage: 2521 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 110 concurrent users (110% of base load)
+Final Results for 110 concurrent users:
+Average Login Time: 8.1156 seconds
+Average Add to Cart Time: 4.1862 seconds
+Max Add to Cart Time: 16.662905540 seconds
+Average Checkout Time: 1.8394 seconds
+Average Total Execution Time: 29.6330 seconds
+Average Products per Cart: 5.63
+Success Rate: 100.00%
+CPU Usage: 1.2%
+Memory Usage: 2524 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 110 concurrent users (110% of base load)
+Final Results for 110 concurrent users:
+Average Login Time: 9.6401 seconds
+Average Add to Cart Time: 4.3648 seconds
+Max Add to Cart Time: 15.341339797 seconds
+Average Checkout Time: 2.7490 seconds
+Average Total Execution Time: 33.2807 seconds
+Average Products per Cart: 5.77
+Success Rate: 100.00%
+CPU Usage: 6.9%
+Memory Usage: 2525 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 120 concurrent users (120% of base load)
+Final Results for 120 concurrent users:
+Average Login Time: 9.5190 seconds
+Average Add to Cart Time: 4.3783 seconds
+Max Add to Cart Time: 18.075199572 seconds
+Average Checkout Time: 2.4246 seconds
+Average Total Execution Time: 33.5233 seconds
+Average Products per Cart: 5.60
+Success Rate: 97.50%
+CPU Usage: 3.9%
+Memory Usage: 2540 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 120 concurrent users (120% of base load)
+Final Results for 120 concurrent users:
+Average Login Time: 9.5896 seconds
+Average Add to Cart Time: 4.1171 seconds
+Max Add to Cart Time: 16.033624177 seconds
+Average Checkout Time: 1.8127 seconds
+Average Total Execution Time: 28.6434 seconds
+Average Products per Cart: 4.80
+Success Rate: 93.33%
+CPU Usage: 5.5%
+Memory Usage: 2534 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 120 concurrent users (120% of base load)
+Final Results for 120 concurrent users:
+Average Login Time: 9.6816 seconds
+Average Add to Cart Time: 5.2071 seconds
+Max Add to Cart Time: 17.348627951 seconds
+Average Checkout Time: 2.3970 seconds
+Average Total Execution Time: 32.2095 seconds
+Average Products per Cart: 4.73
+Success Rate: 96.66%
+CPU Usage: 2.2%
+Memory Usage: 2551 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 130 concurrent users (130% of base load)
+Final Results for 130 concurrent users:
+Average Login Time: 9.9616 seconds
+Average Add to Cart Time: 4.9375 seconds
+Max Add to Cart Time: 18.568625306 seconds
+Average Checkout Time: 1.8487 seconds
+Average Total Execution Time: 34.2698 seconds
+Average Products per Cart: 5.46
+Success Rate: 96.92%
+CPU Usage: 12.2%
+Memory Usage: 2543 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 130 concurrent users (130% of base load)
+Final Results for 130 concurrent users:
+Average Login Time: 8.9963 seconds
+Average Add to Cart Time: 4.0033 seconds
+Max Add to Cart Time: 20.423324781 seconds
+Average Checkout Time: 1.6579 seconds
+Average Total Execution Time: 29.4762 seconds
+Average Products per Cart: 4.73
+Success Rate: 83.07%
+CPU Usage: 0.8%
+Memory Usage: 2521 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 130 concurrent users (130% of base load)
+Final Results for 130 concurrent users:
+Average Login Time: 9.0322 seconds
+Average Add to Cart Time: 4.1652 seconds
+Max Add to Cart Time: 17.073100305 seconds
+Average Checkout Time: 1.6344 seconds
+Average Total Execution Time: 27.2027 seconds
+Average Products per Cart: 4.52
+Success Rate: 86.92%
+CPU Usage: 0.9%
+Memory Usage: 2535 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 140 concurrent users (140% of base load)
+Final Results for 140 concurrent users:
+Average Login Time: 10.7844 seconds
+Average Add to Cart Time: 4.5953 seconds
+Max Add to Cart Time: 16.748244800 seconds
+Average Checkout Time: 1.7339 seconds
+Average Total Execution Time: 31.5498 seconds
+Average Products per Cart: 5.11
+Success Rate: 91.42%
+CPU Usage: 0.9%
+Memory Usage: 2548 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 140 concurrent users (140% of base load)
+Final Results for 140 concurrent users:
+Average Login Time: 10.0953 seconds
+Average Add to Cart Time: 3.6517 seconds
+Max Add to Cart Time: 18.310709602 seconds
+Average Checkout Time: 1.6110 seconds
+Average Total Execution Time: 27.9698 seconds
+Average Products per Cart: 4.66
+Success Rate: 81.42%
+CPU Usage: 0.9%
+Memory Usage: 2534 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 140 concurrent users (140% of base load)
+Final Results for 140 concurrent users:
+Average Login Time: 14.3700 seconds
+Average Add to Cart Time: 4.9540 seconds
+Max Add to Cart Time: 22.245735980 seconds
+Average Checkout Time: 2.2198 seconds
+Average Total Execution Time: 38.2002 seconds
+Average Products per Cart: 5.30
+Success Rate: 95.00%
+CPU Usage: 6.7%
+Memory Usage: 2542 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 150 concurrent users (150% of base load)
+Final Results for 150 concurrent users:
+Average Login Time: 13.5439 seconds
+Average Add to Cart Time: 5.4737 seconds
+Max Add to Cart Time: 23.844758499 seconds
+Average Checkout Time: 2.0951 seconds
+Average Total Execution Time: 38.4488 seconds
+Average Products per Cart: 4.50
+Success Rate: 80.00%
+CPU Usage: 16%
+Memory Usage: 2509 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 150 concurrent users (150% of base load)
+Final Results for 150 concurrent users:
+Average Login Time: 10.4100 seconds
+Average Add to Cart Time: 3.9429 seconds
+Max Add to Cart Time: 17.607781654 seconds
+Average Checkout Time: 1.8219 seconds
+Average Total Execution Time: 29.0301 seconds
+Average Products per Cart: 5.02
+Success Rate: 92.66%
+CPU Usage: 0%
+Memory Usage: 2525 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 150 concurrent users (150% of base load)
+Final Results for 150 concurrent users:
+Average Login Time: 11.4346 seconds
+Average Add to Cart Time: 5.2504 seconds
+Max Add to Cart Time: 23.415947521 seconds
+Average Checkout Time: 2.8392 seconds
+Average Total Execution Time: 37.4773 seconds
+Average Products per Cart: 5.17
+Success Rate: 87.33%
+CPU Usage: 1.5%
+Memory Usage: 2567 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 160 concurrent users (160% of base load)
+Final Results for 160 concurrent users:
+Average Login Time: 10.2443 seconds
+Average Add to Cart Time: 3.6261 seconds
+Max Add to Cart Time: 18.525460340 seconds
+Average Checkout Time: 1.4697 seconds
+Average Total Execution Time: 25.7920 seconds
+Average Products per Cart: 4.08
+Success Rate: 76.25%
+CPU Usage: 0.7%
+Memory Usage: 2533 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 160 concurrent users (160% of base load)
+Final Results for 160 concurrent users:
+Average Login Time: 8.5016 seconds
+Average Add to Cart Time: 3.7194 seconds
+Max Add to Cart Time: 15.696906956 seconds
+Average Checkout Time: 1.6421 seconds
+Average Total Execution Time: 25.8777 seconds
+Average Products per Cart: 4.48
+Success Rate: 79.37%
+CPU Usage: 0.9%
+Memory Usage: 2501 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Increasing load to 160 concurrent users (160% of base load)
+Final Results for 160 concurrent users:
+Average Login Time: 10.4415 seconds
+Average Add to Cart Time: 3.5908 seconds
+Max Add to Cart Time: 17.147399012 seconds
+Average Checkout Time: 1.9181 seconds
+Average Total Execution Time: 26.4054 seconds
+Average Products per Cart: 4.09
+Success Rate: 72.50%
+CPU Usage: 4.8%
+Memory Usage: 2529 MB
+---------------------------------------
+Cooling down for 30 seconds before next increment
+Extended load test completed

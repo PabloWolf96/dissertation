@@ -1,0 +1,168 @@
+
+Averages for each batch of concurrent users:
+--------------------------------------------------
+Concurrent Users: 10
+  Average Login Time: 0.4172 seconds
+  Average Add to Cart Time: 0.0828 seconds
+  Average Max Add to Cart Time: 0.4174 seconds
+  Average Checkout Time: 0.0730 seconds
+  Average Total Execution Time: 0.8890 seconds
+  Average Products per Cart: 5.27
+  Average Success Rate: 100.00%
+  Average CPU Usage: 0.20%
+  Average Memory Usage: 2307.00 MB
+--------------------------------------------------
+Concurrent Users: 20
+  Average Login Time: 0.5586 seconds
+  Average Add to Cart Time: 0.2851 seconds
+  Average Max Add to Cart Time: 0.8877 seconds
+  Average Checkout Time: 0.1150 seconds
+  Average Total Execution Time: 2.0311 seconds
+  Average Products per Cart: 5.68
+  Average Success Rate: 100.00%
+  Average CPU Usage: 0.23%
+  Average Memory Usage: 2325.33 MB
+--------------------------------------------------
+Concurrent Users: 30
+  Average Login Time: 1.4249 seconds
+  Average Add to Cart Time: 0.6026 seconds
+  Average Max Add to Cart Time: 2.2522 seconds
+  Average Checkout Time: 0.3227 seconds
+  Average Total Execution Time: 4.4887 seconds
+  Average Products per Cart: 5.38
+  Average Success Rate: 100.00%
+  Average CPU Usage: 2.63% 
+  Average Memory Usage: 2315.33 MB
+--------------------------------------------------
+Concurrent Users: 40
+  Average Login Time: 2.8113 seconds
+  Average Add to Cart Time: 1.4298 seconds
+  Average Max Add to Cart Time: 5.7883 seconds
+  Average Checkout Time: 0.5474 seconds
+  Average Total Execution Time: 9.7032 seconds
+  Average Products per Cart: 5.60
+  Average Success Rate: 100.00%
+  Average CPU Usage: 2.90%
+  Average Memory Usage: 2342.33 MB
+--------------------------------------------------
+Concurrent Users: 50
+  Average Login Time: 2.9711 seconds
+  Average Add to Cart Time: 1.4534 seconds
+  Average Max Add to Cart Time: 5.5448 seconds
+  Average Checkout Time: 0.7072 seconds
+  Average Total Execution Time: 10.2608 seconds
+  Average Products per Cart: 5.50
+  Average Success Rate: 100.00%
+  Average CPU Usage: 0.50%
+  Average Memory Usage: 2329.67 MB
+--------------------------------------------------
+Concurrent Users: 60
+  Average Login Time: 3.5979 seconds
+  Average Add to Cart Time: 1.5428 seconds
+  Average Max Add to Cart Time: 6.1884 seconds
+  Average Checkout Time: 0.6915 seconds
+  Average Total Execution Time: 11.3899 seconds
+  Average Products per Cart: 5.64
+  Average Success Rate: 100.00%
+  Average CPU Usage: 1.30%
+  Average Memory Usage: 2400.33 MB
+--------------------------------------------------
+Concurrent Users: 70
+  Average Login Time: 5.2456 seconds
+  Average Add to Cart Time: 2.7469 seconds
+  Average Max Add to Cart Time: 10.8081 seconds
+  Average Checkout Time: 1.1703 seconds
+  Average Total Execution Time: 18.8380 seconds
+  Average Products per Cart: 5.56
+  Average Success Rate: 100.00%
+  Average CPU Usage: 1.37%
+  Average Memory Usage: 2544.67 MB
+--------------------------------------------------
+Concurrent Users: 80
+  Average Login Time: 7.7495 seconds
+  Average Add to Cart Time: 3.5375 seconds
+  Average Max Add to Cart Time: 11.9306 seconds
+  Average Checkout Time: 1.3357 seconds
+  Average Total Execution Time: 23.5797 seconds
+  Average Products per Cart: 5.36
+  Average Success Rate: 100.00%
+  Average CPU Usage: 1.93%
+  Average Memory Usage: 2534.00 MB
+--------------------------------------------------
+Concurrent Users: 90
+  Average Login Time: 7.6955 seconds
+  Average Add to Cart Time: 3.5212 seconds
+  Average Max Add to Cart Time: 13.9889 seconds
+  Average Checkout Time: 1.7111 seconds
+  Average Total Execution Time: 26.7242 seconds
+  Average Products per Cart: 5.76
+  Average Success Rate: 100.00%
+  Average CPU Usage: 0.83%
+  Average Memory Usage: 2530.00 MB
+--------------------------------------------------
+Concurrent Users: 100
+  Average Login Time: 8.2432 seconds
+  Average Add to Cart Time: 4.3712 seconds
+  Average Max Add to Cart Time: 14.9218 seconds
+  Average Checkout Time: 1.9772 seconds
+  Average Total Execution Time: 29.9947 seconds
+  Average Products per Cart: 5.39
+  Average Success Rate: 100.00%
+  Average CPU Usage: 1.07%
+  Average Memory Usage: 2539.00 MB
+--------------------------------------------------
+Concurrent Users: 110
+  Average Login Time: 8.8906 seconds
+  Average Add to Cart Time: 4.3642 seconds
+  Average Max Add to Cart Time: 16.3040 seconds
+  Average Checkout Time: 2.2588 seconds
+  Average Total Execution Time: 31.1969 seconds
+  Average Products per Cart: 5.48
+  Average Success Rate: 100.00%
+  Average CPU Usage: 3.50%
+  Average Memory Usage: 2523.33 MB
+--------------------------------------------------
+Concurrent Users: 120
+  Average Login Time: 9.5967 seconds
+  Average Add to Cart Time: 4.5675 seconds
+  Average Max Add to Cart Time: 17.1525 seconds
+  Average Checkout Time: 2.2114 seconds
+  Average Total Execution Time: 31.4587 seconds
+  Average Products per Cart: 5.04
+  Average Success Rate: 95.83%
+  Average CPU Usage: 3.87%
+  Average Memory Usage: 2541.67 MB
+--------------------------------------------------
+Concurrent Users: 130
+  Average Login Time: 9.3300 seconds
+  Average Add to Cart Time: 4.3687 seconds
+  Average Max Add to Cart Time: 18.6884 seconds
+  Average Checkout Time: 1.7137 seconds
+  Average Total Execution Time: 30.3162 seconds
+  Average Products per Cart: 4.90
+  Average Success Rate: 88.97%
+  Average CPU Usage: 4.63%
+  Average Memory Usage: 2533.00 MB
+--------------------------------------------------
+Concurrent Users: 140
+  Average Login Time: 11.7499 seconds
+  Average Add to Cart Time: 4.4003 seconds
+  Average Max Add to Cart Time: 19.1016 seconds
+  Average Checkout Time: 1.8549 seconds
+  Average Total Execution Time: 32.5733 seconds
+  Average Products per Cart: 5.02
+  Average Success Rate: 89.28%
+  Average CPU Usage: 2.83%
+  Average Memory Usage: 2541.33 MB
+--------------------------------------------------
+Concurrent Users: 150
+  Average Login Time: 11.7962 seconds
+  Average Add to Cart Time: 4.8890 seconds
+  Average Max Add to Cart Time: 21.6228 seconds
+  Average Checkout Time: 2.2521 seconds
+  Average Total Execution Time: 34.9854 seconds
+  Average Products per Cart: 4.90
+  Average Success Rate: 86.66%
+  Average CPU Usage: 5.83%
+  Average Memory Usage: 2533.67 MB
+--------------------------------------------------
